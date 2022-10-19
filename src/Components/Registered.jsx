@@ -1,8 +1,10 @@
-import './registered.css';
 
 function Registered() {
+
   return (
-    <div>Registered</div>
+    <div className="flex items-center">
+      Registered
+    </div>
   );
 }
 
